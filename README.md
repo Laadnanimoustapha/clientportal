@@ -1,5 +1,9 @@
 # ClientPortal Pro
 
+[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)
+[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)
+
+
 A professional, production-ready React application for freelancers and small businesses to manage clients, share updates, deliver files, and send invoices through a simple and elegant UI.
 
 ## 🚀 Features
@@ -179,5 +183,6 @@ This project is licensed under the MIT License.
 For support and questions, please contact the development team.
 
 ---
+
 
 **ClientPortal Pro** - Professional client management made simple.
